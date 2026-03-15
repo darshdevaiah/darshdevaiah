@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Darsh Devaiah<br>>Computer Science student with an interest in building software, learning how systems work, and improving every day.<br><br>⏳Currently<br>- Building projects<br>- Learning core programming concepts<br>- Exploring software development<br>🍕Interests<br>- Technology<br>- Fitness<br>- Cars<br><br>>"Consistency over motivation." <br>> More projects coming soon.
+Hey I'm Darsh Devaiah<br>Computer Science student with an interest in building software, learning how systems work, and improving every day.<br><br>⏳Currently<br>- Building projects<br>- Learning core programming concepts<br>- Exploring software development<br>🍕Interests<br>- Technology<br>- Fitness<br>- Cars<br><br>>"Consistency over motivation." <br>> More projects coming soon.
 
 
 ## 🌐 Socials:
